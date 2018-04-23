@@ -1,4 +1,7 @@
 source 'https://rubygems.org' do
-  gem "sinatra-contrib"
   gem "sinatra"
+  gem "sinatra-activerecord"
+  gem "rake"
+  gem "pg"
+  gem "sinatra-contrib"
 end
