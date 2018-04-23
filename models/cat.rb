@@ -1,3 +1,3 @@
-class Cat < ActieRecord::Base
+class Cat < ActiveRecord::Base
 
 end
